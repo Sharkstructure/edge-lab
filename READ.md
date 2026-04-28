@@ -2,3 +2,5 @@
 WSL ogarnięte
 GitHub i repo ogarnięte
 First contact - jest w katalogu lokalnym - działa
+
+Second touch - już leci płynnie
