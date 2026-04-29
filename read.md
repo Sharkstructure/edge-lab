@@ -13,3 +13,6 @@ wykładnię pragmatyczną i logiczną ocenę okoliczności mających wpływ i od
 Katalog norm odpowiadających za ochronę dóbr społecznych oraz  praw podstawowych, bezpiecznego monitorowania stosunków prawnych
 w procesach struktury zarządzania. Działanie to zostało połączone jest ze spełnieniem warunków identyfikacyjnych oraz przejściowych.
 Signed-off-by: Sharkstructure <sharkstructure@hotmail.com>
+
+
+Wszystko OK
