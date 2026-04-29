@@ -1,3 +1,12 @@
+# DAY 2 Mam teraz:
+- działające SSH;
+- poprawny remote;
+- działający push;
+- repo pod kontrolą.
+Rezultat: Pełny setup produkcyjny.
+
+
+
 Laboratorium
 Tworzę system działający w obszarze outreach, rozumiejący nie tylko wartości ale też znaczenia, oparty na stałej
 kooperacji z niezależnie działającym Interpretatorem, system ten uwzględnia pełną dynamikę warunków wdrożeniowy.
