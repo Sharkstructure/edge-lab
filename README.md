@@ -1,45 +1,60 @@
-# M.Węgrowski
+# M. Węgrowski | Professional Profile
 
-`AI Data Analyst` · `AI Training` · `Data Quality`
+`DATA ANALYSIS` · `AI EVALUATION` · `DATA QUALITY` · `LANGUAGE TECHNOLOGIES`
 
-> General, privacy-conscious professional profile for public GitHub releases.
+> Analytical thinking. Structured information. Verifiable results.
 
-## Profile
+## `01 / Overview`
 
-I work at the intersection of **data analysis**, **AI-training workflows**, and
-**quality review**. My focus is on turning ambiguous source material into
-consistent, well-documented data that can support reliable AI systems and
-clearer decisions.
+Professional background combining data analysis, legal documentation, administrative procedures and operational experience.
+
+Current direction: applying analytical discipline, language skills and quality-oriented workflows to **AI evaluation, data validation and language data quality**.
+
+## `02 / Competency Map`
+
+| Domain     | Focus                                          |
+| ---------- | ---------------------------------------------- |
+| Data       | Analysis, validation, consistency checks       |
+| AI         | LLM evaluation, AI training data quality       |
+| Language   | Polish-language quality, text review           |
+| Legal      | Documentation, formal requirements, compliance |
+| Operations | Procedures, accuracy, deadline management      |
+
+## `03 / Professional Approach`
 
 ```text
-focus      → data annotation · validation · classification · QA
-approach   → context-aware · precise · documented · privacy-conscious
-format     → structured data · guidelines · review feedback · release notes
+INPUT       -> inspect
+INFORMATION -> structure
+CLAIMS      -> verify
+DATA        -> validate
+ERRORS      -> identify
+OUTPUT      -> deliver
 ```
 
-## Current release
+**Working principles:** precision, consistency, clear documentation and evidence-based decisions.
 
-| File | Purpose |
-| --- | --- |
-| [`CV_General.md`](CV_General.md) | General CV prepared for public viewing |
+## `04 / Repository`
 
-```text
-visibility → public-ready
-identity   → abbreviated name; no LinkedIn link
-privacy    → organisations and institutions described by category
-```
+| File                    | Purpose                                   |
+| ----------------------- | ----------------------------------------- |
+| `README.md`             | Professional profile and project overview |
+| `CV_General.md`         | General professional CV                   |
+| `CV_AI_Data_Analyst.md` | CV focused on data analysis and AI        |
 
-## Areas of contribution
+## `05 / Career Direction`
 
-- `AI data preparation` — annotation, classification, and structured review
-- `data quality` — consistency checks, edge-case identification, and feedback
-- `analysis` — extracting clear patterns and actionable information from data
-- `documentation` — concise guidelines, decision records, and handoff notes
+* AI data quality and evaluation
+* Data analysis and information validation
+* Language data and annotation workflows
+* NLP and Large Language Model evaluation
+* Responsible AI and knowledge management
 
-## Contact
+## `06 / Contact`
 
-Please use GitHub’s contact options for project-related communication.
+* **Location:** Poland
+* **Email:** [m.wegrowski@outlook.com](mailto:m.wegrowski@outlook.com)
+* **Languages:** Polish — Native; English — Working Proficiency
 
 ---
 
-`Last updated: 2026-10-14` · `Public profile version`
+`PROFILE STATUS: INITIAL RELEASE`
