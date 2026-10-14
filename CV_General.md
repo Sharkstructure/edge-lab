@@ -4,6 +4,7 @@
 
 > General CV for a public GitHub release. Personal contact details, a LinkedIn
 > URL, and the proper names of organisations and institutions are intentionally omitted.
+> 
 > Portfolio: https://github.com/Sharkstructure/edge-lab
 
 ## Professional profile
