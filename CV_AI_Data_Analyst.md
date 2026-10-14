@@ -4,7 +4,7 @@
 
 **Location:** Poland
 **Languages:** Polish — Native · English — Working Proficiency
-
+**GitHub Portfolio:** https://github.com/Sharkstructure/edge-lab
 ---
 
 ## `01 / PROFILE`
@@ -130,5 +130,18 @@ This public profile uses descriptive employer and education categories rather th
 Personal identifiers and third-party details are intentionally minimised.
 
 ---
+## `08 / PROJECT PORTFOLIO`
+
+### Edge Lab — AI & Data Portfolio
+
+**Repository:** https://github.com/Sharkstructure/edge-lab
+
+A developing professional portfolio focused on AI, data analysis,
+structured information, and technical documentation.
+
+The repository documents professional development and maintains
+version-controlled portfolio assets.
+
+**Status:** Active development
 
 `END OF PROFILE`
