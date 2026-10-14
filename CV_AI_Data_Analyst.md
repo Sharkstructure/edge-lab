@@ -3,8 +3,6 @@
 `DATA ANALYSIS` · `AI EVALUATION` · `LANGUAGE QUALITY` · `LEGAL DOCUMENTATION`
 
 **Location:** Poland
-**Phone:** +48 797 792 621
-**Email:** [m.wegrowski@outlook.com](mailto:m.wegrowski@outlook.com)
 **Languages:** Polish — Native · English — Working Proficiency
 
 ---
@@ -87,13 +85,14 @@ Interested in the intersection of language, data and artificial intelligence, pa
 
 ## `04 / EDUCATION`
 
-**University Degree — Law**
-`10.2003–07.2008`
+**University Degree**
+`2003–2008`
 
-**Postgraduate Studies — Taxation**
-`10.2011–06.2012`
+**Postgraduate Studies**
+2011–2012`
 
-**Technical Education — Electronics**
+**Technical Education**
+1992-1998
 
 ## `05 / AI & DATA DIRECTION`
 
